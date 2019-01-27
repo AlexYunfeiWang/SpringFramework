@@ -1,0 +1,4 @@
+How to run spring project with Spring boot: 
+$ mvnw spring-boot:run
+
+
